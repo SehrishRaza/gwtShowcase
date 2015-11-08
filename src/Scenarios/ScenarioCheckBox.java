@@ -15,6 +15,7 @@ public class ScenarioCheckBox {
     @Before
     public void setUp() {
         driver = new FirefoxDriver();
+        //initiate firefox
     }
 
     @Test
